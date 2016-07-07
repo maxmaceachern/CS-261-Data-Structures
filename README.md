@@ -1,1 +1,2 @@
 # CS-261-Data-Structures
+Course covers Ordered Bags, Bags, Lists, Stacks, Queues, Deques, Pri Queue, Sets, Maps/Dictionaries ADTs and Dyn Array, Linked List, Trees, Heaps, Hash Tables, and Graph implementations
