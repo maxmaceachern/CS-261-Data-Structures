@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1454297147 source:c:\users\herpderp\documents\cs 261\cs 261 assignment 3\deque adt with circularly linked list\cirlistdeque.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<float.h>
+	"cirListDeque.h"
+
+1365192616 c:\users\herpderp\documents\cs 261\cs 261 assignment 3\deque adt with circularly linked list\cirlistdeque.h
+
+1454296457 source:c:\users\herpderp\documents\cs 261\cs 261 assignment 3\deque adt with circularly linked list\listdequetest.c
+	"cirListDeque.h"
+	<stdio.h>
+

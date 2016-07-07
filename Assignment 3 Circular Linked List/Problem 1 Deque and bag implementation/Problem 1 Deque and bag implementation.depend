@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1454193759 source:c:\users\herpderp\documents\cs 261\cs 261 assignment 3\problem 1 deque and bag implementation\linkedlist.c
+	"linkedList.h"
+	<assert.h>
+	<stdlib.h>
+	<stdio.h>
+
+1365192616 c:\users\herpderp\documents\cs 261\cs 261 assignment 3\problem 1 deque and bag implementation\linkedlist.h
+
+1454193792 source:c:\users\herpderp\documents\cs 261\cs 261 assignment 3\problem 1 deque and bag implementation\linkedlistmain.c
+	"linkedList.h"
+

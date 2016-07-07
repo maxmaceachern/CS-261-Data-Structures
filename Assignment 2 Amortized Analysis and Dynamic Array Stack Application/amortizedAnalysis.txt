@@ -1,0 +1,7 @@
+1.) Total cost = 1+1+1+1+1+1+1+1+8+1+1+1+1+1+1+1+1+16+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1 = 56
+The big-O complexity is O(1)
+
+2.) Total cost = 260
+The big-O complexity is O(n)
+
+3.) A sequence of push and pop that would cause O(N^2) would be pushing values to the stack until capacity is reached, causing the capacity to double. You pop a value, causing the capacity to half itself. One potential way to avoid such a complexity is to lower the proportion of the resize condition on a pop.

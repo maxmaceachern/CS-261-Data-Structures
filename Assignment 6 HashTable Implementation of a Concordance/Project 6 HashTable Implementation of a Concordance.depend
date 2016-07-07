@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1457325916 source:c:\users\herpderp\documents\cs 261\project 6 hashtable implementation of a concordance\hashmap.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+	"hashMap.h"
+
+1457326387 c:\users\herpderp\documents\cs 261\project 6 hashtable implementation of a concordance\hashmap.h
+
+1457326354 source:c:\users\herpderp\documents\cs 261\project 6 hashtable implementation of a concordance\main.c
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"hashMap.h"
+

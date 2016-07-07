@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1455322798 source:c:\users\herpderp\documents\cs 261\cs 261 assignment 4\assignment4\bst.c
+	<stdlib.h>
+	<stdio.h>
+	<assert.h>
+	"bst.h"
+	"structs.h"
+	<stdio.h>
+
+1405778378 c:\users\herpderp\documents\cs 261\cs 261 assignment 4\assignment4\bst.h
+
+1405778378 c:\users\herpderp\documents\cs 261\cs 261 assignment 4\assignment4\structs.h
+
+1455321085 source:c:\users\herpderp\documents\cs 261\cs 261 assignment 4\assignment4\compare.c
+	<stdio.h>
+	<assert.h>
+	"bst.h"
+	"structs.h"
+
+1405778378 source:c:\users\herpderp\documents\cs 261\cs 261 assignment 4\assignment4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bst.h"
+	"structs.h"
+

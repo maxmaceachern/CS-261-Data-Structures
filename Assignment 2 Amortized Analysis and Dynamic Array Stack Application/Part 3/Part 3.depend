@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1453493908 source:c:\users\herpderp\documents\cs 261\cs 261 assignment 2\part 3\dynamicarray.c
+	<assert.h>
+	<stdlib.h>
+	"dynArray.h"
+
+1453510649 c:\users\herpderp\documents\cs 261\cs 261 assignment 2\part 3\dynarray.h
+

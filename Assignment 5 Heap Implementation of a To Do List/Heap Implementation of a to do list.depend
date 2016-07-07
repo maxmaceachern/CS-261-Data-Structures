@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1456687279 source:c:\users\herpderp\documents\cs 261\heap implementation of a to do list\dynamicarray.c
+	<assert.h>
+	<stdlib.h>
+	<stdio.h>
+	"dynamicArray.h"
+
+1393139900 c:\users\herpderp\documents\cs 261\heap implementation of a to do list\dynamicarray.h
+	"type.h"
+
+1393023672 c:\users\herpderp\documents\cs 261\heap implementation of a to do list\type.h
+
+1393050630 source:c:\users\herpderp\documents\cs 261\heap implementation of a to do list\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+	"toDoList.h"
+
+1393023672 c:\users\herpderp\documents\cs 261\heap implementation of a to do list\todolist.h
+	"dynamicArray.h"
+
+1456687734 source:c:\users\herpderp\documents\cs 261\heap implementation of a to do list\todolist.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+	"toDoList.h"
+
